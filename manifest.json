@@ -1,0 +1,25 @@
+
+{
+  "name": "KHM SALES - Smart ERP",
+  "short_name": "KHM Sales",
+  "description": "Enterprise Sales & Inventory Management System",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://seeklogo.com/images/P/pran-logo-4B3A8B1A2A-seeklogo.com.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://seeklogo.com/images/P/pran-logo-4B3A8B1A2A-seeklogo.com.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
