@@ -1,8 +1,8 @@
 
 {
-  "name": "KHM SALES - Smart ERP",
-  "short_name": "KHM Sales",
-  "description": "Enterprise Sales & Inventory Management System",
+  "name": "QUEEN FOOD PRODUCT LTD - ERP",
+  "short_name": "Queen Sales",
+  "description": "Enterprise Sales & Inventory Management System for Queen Food",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
